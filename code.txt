@@ -1,0 +1,76 @@
+SCENARIOS CODES
+
+[GOALS]
+rulea =
+ruleb =
+arga = Animal type or location needed for the goal (optional) (https://www.oocities.org/zootycooncenter/aruca1.html)
+value = The number to reach needed for the goal (7 animals, 200$, etc)
+type =
+sticky = (optional)
+optional = (optional)
+hidden = Is the goal hidden or not (optional)
+text = The text index of the goal (what the user reads) (optional if hidden)
+
+trulea = (optional)
+truleb = (optional)
+targa = A coin amount (optional) [?]
+
+rtype =
+child = Calls a sub-goal
+
+RULE A
+1 =
+2 =
+3 =
+4 =
+5 =
+6 =
+99 =
+
+RULE B
+0 = 
+1 =
+2 =
+3 =
+4 =
+5 =
+6 =
+
+TYPE
+0 = 
+1 =
+2 =
+3 =
+4 =
+5 =
+6 =
+7 =
+8 =
+
+STICKY
+
+OPTIONAL
+0 = False
+1 = True
+
+HIDDEN
+0 = False
+1 = True
+
+TEXT
+17102 = Have a zoo rating of at least VALUE
+17200 = Exhibit at least VALUE ANIMAL NAME
+17403 = Have at least VALUE animals from LOCATION. 
+17504 = Have an exhibit suitability rating of at least VALUE for all animals from LOCATION.
+17301 = Have at least VALUE non-empty exhibits
+
+RTYPE
+0 =
+1 =
+2 =
+
+CHILD
+
+TRULE A
+
+TRULE B
