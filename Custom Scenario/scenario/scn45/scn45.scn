@@ -57,3 +57,11 @@ sticky=0
 optional=0
 hidden=0
 text=17200
+
+; Need to figure out if adding the name directly in there is possible
+[1036] ;French | 1033 English
+cGeneralInfoFileName = scenario/scenario/texts/1036.txt
+;cLongHelp = Purchase a Transgender Pride Path.  Guests will support trans rights.
+;cName = Transgender Pride Path
+;cTheString = the Transgender Pride Path
+name = Modded Zoo Scenario
