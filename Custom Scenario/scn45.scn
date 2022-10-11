@@ -1,5 +1,5 @@
 [desc]
-name=16045 ;Will need to add the name txt somewhere
+name=16046
 story=SCENARIO_START_STORY_SCN45
 picture=scenario/scn01/scn01/scn01
 winstory=SCENARIO_WIN_STORY_SCN45

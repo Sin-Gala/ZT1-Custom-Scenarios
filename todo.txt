@@ -1,0 +1,8 @@
+- Figure out where to enter the 16046 name
+- Figure out if 16046 is free
+
+- "Start" button issue
+
+- Figure out the codes for each parameters
+
+- Figure out where to save the picture and how (size, extension, etc)
